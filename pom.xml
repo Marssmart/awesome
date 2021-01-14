@@ -15,7 +15,6 @@
         <module>spring-tests</module>
         <module>spring-2.2-tests</module>
         <module>spring-2.3-tests</module>
-        <module>spring-2.4-tests</module>
     </modules>
 
     <properties>
